@@ -1,40 +1,9 @@
 {
-  "tamada": [
+  "leader": [
     {
-      "id": 0,
-      "main": "გაუმარჯოს პარტიარქს",
-      "place": "#18",
-      "translation": "cheers to patriarch!"
+      "name": "Nick Sirbiladze",
+      "score": 8000,
     },
-    {
-      "id": 1,
-      "main": "მეგობრობას გაუმარჯოს!",
-      "place": "#3",
-      "translation": "cheers to our friendship!"
-    },
-    {
-      "id": 2,
-      "main": "განსვენებული პიროვნების სულის ხსენების სადღეგრძელო",
-      "place": "#2",
-      "translation": "cheers to the different persons soul!"
-    },
-    {
-      "id": 3,
-      "main": "განსვენებული პიროვნების სულის ხსენების სადღეგრძელო",
-      "place": "#2",
-      "translation": "cheers to the different persons soul!"
-    },
-    {
-      "id": 4,
-      "main": "განსვენებულის გამპატიოსნებლების და საბოლოო სასუ ფეველის მიმცემთა სადღეგრძელო.",
-      "place": "#22",
-      "translation": "Untranslateble"
-    },
-     {
-      "id": 5,
-      "main": "რუდოლფს გაუმარჯოს",
-      "place": "#2",
-      "translation": "Untranslateble"
-    }
+   
   ]
 }
