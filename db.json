@@ -5,35 +5,35 @@
       "main": "გაუმარჯოს პარტიარქს",
       "place": "#18",
       "translation": "cheers to patriarch!",
-      "categorie": ["birthday","qelexi","natloba","mariage"]
+      "categorie": "natloba"
     },
     {
       "id": 1,
       "main": "მეგობრობას გაუმარჯოს!",
       "place": "#3",
       "translation": "cheers to our friendship!",
-      "categorie": ["birthday","mariage"]
+      "categorie": "birthday"
     },
     {
       "id": 2,
       "main": "განსვენებული პიროვნების სულის ხსენების სადღეგრძელო",
       "place": "#2",
       "translation": "cheers to the different persons soul!",
-      "categorie": ["qelexi"]
+      "categorie": "qelexi"
     },
     {
       "id": 3,
       "main": "ტკბილი მოგონებების",
       "place": "#2",
       "translation": "cheers to the different persons soul!",
-      "categorie": ["mariage","natloba","qelexi","birthday"]
+      "categorie": "qelexi"
     },
     {
       "id": 4,
       "main": "განსვენებულის გამპატიოსნებლების და საბოლოო სასუ ფეველის მიმცემთა სადღეგრძელო.",
       "place": "#22",
       "translation": "Untranslateble",
-       "categorie": ["mariage","natloba","qelexi","birthday"]
+       "categorie": "qelexi"
     },
      {
       "id": 5,
